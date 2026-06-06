@@ -4,7 +4,7 @@
     {
       "path": "test-manifest.txt",
       "url": "https://raw.githubusercontent.com/rust-lang/rust/master/README.md",
-      "sha1": null
+      "sha1": "CA1B4AF10977106F4E3084CE296586D597A7863F"
     }
   ]
 }
