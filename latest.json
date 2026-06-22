@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Bug fix.",
-  "pub_date": "2026-06-22T11:40:00Z",
+  "version": "0.2.5",
+  "notes": "Added logout (for offline users), removed switch account and renamed some menu.",
+  "pub_date": "2026-06-22T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUHZzUUdVdGZ0SHZtV1RUWTEyMHZIUytvT1ZMYUphM2VnbFVJd21lK0RCTncweGQ4UUlaL2NlOEJndzl6WmcyTTUyTzRLS1pSeUkzVnVKYi9rQ3JXa3ZVc1dKaUdIa2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTI3MzI3CWZpbGU6RXhvZHVzIExhdW5jaGVyXzAuMi4zX3g2NC1zZXR1cC5leGUKdGRMTGhFT2JadnJNZkdyNFVodEhlNU1HM2Q2dEJFMEtRN05qaWZIb1poMDB4TU5yTE1yZmw4dmltMVY3NEU3STNEejNRMC9OK1IwbXJsNk1PUWx5Q3c9PQo=",
-      "url": "https://github.com/AbusoEdilizio/exodus-client/releases/download/0.2.3-beta/Exodus.Launcher_0.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUHZzUUdVdGZ0SG1YaDJUd2E0by93TlVpcU9aZk9XSXdsakdUV1ZKdFZMc0pUTDJrOURDRnN4U1NMeVBLdVFOT29rZFhzeWdXWkw3MURMUmVDSW9razJOQ3I2Tkk1WEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTMzMTc3CWZpbGU6RXhvZHVzIExhdW5jaGVyXzAuMi41X3g2NC1zZXR1cC5leGUKMGJIdnNEb2RWS3h3N1l0VDloWHdQdnN6MnVweWloRkVRT1Q4bXUrbWZJK0lmQVNKTVdBZ2RFRTR3K3R0L3Q0SFhwM1ZOay9TdHRCZzBRK2N6QVBKREE9PQo=",
+      "url": "https://github.com/AbusoEdilizio/exodus-client/releases/download/0.2.5-beta/Exodus.Launcher_0.2.5_x64-setup.exe"
     }
   }
 }
