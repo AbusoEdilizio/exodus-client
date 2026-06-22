@@ -1,11 +1,11 @@
 {
   "version": "0.2.0",
-  "notes": "Test auto-updater",
+  "notes": "Bug fix.",
   "pub_date": "2026-06-21T16:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUHZzUUdVdGZ0SGdDOUJGVkZBdGM4NGlHLzBvZDlZUlp4U3hVZ2VTL0xiRWxjaUZhMWRleUtpcGRnOTFxZDFEd3hpOHpmYlIxa0VtaGV0Q09HZVpoNjFDYzBoZUx0SEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTE5NDE3CWZpbGU6RXhvZHVzIExhdW5jaGVyXzAuMi4wX3g2NC1zZXR1cC5leGUKRFU5N0xlODlGaHIxODlDaS9tRlhNSGxLR3dBT0l5Lzg4Z0xxRFR5amtTc2g2TjBYakFlZXlMVXB5VVNVWTRjQTdCalRnRjFpeWN1d1hYcHIwZVhEQUE9PQo=",
-      "url": "https://github.com/AbusoEdilizio/exodus-client/releases/download/0.2.0-alpha/Exodus.Launcher_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUHZzUUdVdGZ0SGw0bXZIZGs0OThHaWRqTDRaZm14YnRBZXR4aG5DL2RhV1hldU9HUDNiT1VVb0lXSk82NGp4cStqalBQZmV2RU1SSWY0c0pHaWlSZytMc3NhQks5Z2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIxMDYxCWZpbGU6RXhvZHVzIExhdW5jaGVyXzAuMi4xX3g2NC1zZXR1cC5leGUKYUEyZHo4b0lua2xsdFN1OU5FSjVrdW9STHM2NWIxSWk0YjVJanFRYkRzM2M1Tmw0YXphOEhVajdNOXdOdnh5TXVCM1NmVlk4bWdxN09TZFF0ZXpiQkE9PQo=",
+      "url": "https://github.com/AbusoEdilizio/exodus-client/releases/download/0.2.1-alpha/Exodus.Launcher_0.2.1_x64-setup.exe"
     }
   }
 }
